@@ -1,0 +1,64 @@
+{
+    "chatHistory": {
+        "enabled": true
+    },
+    "screenshot": {
+        "alt": true,
+        "ctrl": false,
+        "shift": false,
+        "vk": 220
+    },
+    "shotSend": {
+        "alt": false,
+        "ctrl": true,
+        "shift": false,
+        "vk": 87
+    },
+    "duelCapture": {
+        "alt": true,
+        "ctrl": false,
+        "shift": false,
+        "vk": 81
+    },
+    "toggle": {
+        "alt": true,
+        "ctrl": false,
+        "shift": false,
+        "vk": 191
+    },
+    "send": {
+        "alt": false,
+        "ctrl": true,
+        "shift": false,
+        "vk": 13
+    },
+    "autoType": {
+        "alt": true,
+        "ctrl": false,
+        "shift": false,
+        "vk": 84,
+        "minDelay": 10,
+        "maxDelay": 25,
+        "lineDelay": 35,
+        "humanizePauses": false,
+        "simulateTypos": false,
+        "swallowInput": false,
+        "smartIndent": false,
+        "ctrlPause": false,
+        "enterMode": 0,
+        "source": 0
+    },
+    "login": {
+        "remember": true,
+        "username": "rawat",
+        "password": "rawat"
+    },
+    "ui": {
+        "hideFromCapture": true,
+        "pinned": false
+    },
+    "backend": {
+        "supabaseDomain": "xkzpcfvmskzdvecdgvcr.supabase.co",
+        "supabaseAnonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhrenBjZnZtc2t6ZHZlY2RndmNyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTIxNjg1ODgsImV4cCI6MjEwNzc0NDU4OH0.kA21nowQf8RwTlpEodMw8NC4Qy0_lZs44RriMkY1HEw"
+    }
+}
